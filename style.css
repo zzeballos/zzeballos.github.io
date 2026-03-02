@@ -233,6 +233,12 @@ nav .logo a {
   
 }
 
+.column .caption a:hover {
+  text-decoration:underline;
+  color:#11181F;
+  
+}
+
 .column .caption p {
   margin-top:8px;
   color: DimGrey;
@@ -510,3 +516,4 @@ footer a:hover, a:active {
   }
 
 }
+
